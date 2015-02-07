@@ -1,7 +1,7 @@
 # Ember Flask Project Base
 
 This project is used as a base for many of my Ember.js & Rails projects.
-This was inspired by (Ember Rails Project Base)[https://github.com/bahudso/ember-rails-project-base]
+This was inspired by [Ember Rails Project Base](https://github.com/bahudso/ember-rails-project-base)
 
 ## Backend
 TBD
